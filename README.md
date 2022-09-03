@@ -1,9 +1,10 @@
 i# DOTFILES AlonsoErnesto
   
 <p>
-    <a href="https://stuff.charm.sh/gum/nutritional-information.png" target="_blank"><img src="https://stuff.charm.sh/gum/gum.png" alt="Gum Image" width="450" /></a>
+    <a href="https://https://files.fm/thumb_show.php?i=jp2weuf9x" target="_blank"><img src="https://stuff.charm.sh/gum/gum.png" alt="Gum Image" width="450" /></a>
+    <a href="https://files.fm/thumb_show.php?i=pamxp8gjh" target="_blank"><img src="https://stuff.charm.sh/gum/gum.png" alt="Gum Image" width="450" /></a>
     <br><br>
-    <a href="https://github.com/charmbracelet/gum/releases"><img src="https://img.shields.io/github/release/charmbracelet/gum.svg" alt="Latest Release"></a>
+    <a href="https://github.com/AlonsoErnesto"><img src="https://img.shields.io/github/release/charmbracelet/gum.svg" alt="Latest Release"></a>
     <a href="https://pkg.go.dev/github.com/charmbracelet/gum?tab=doc"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="Go Docs"></a>
     <a href="https://github.com/charmbracelet/gum/actions"><img src="https://github.com/charmbracelet/gum/workflows/build/badge.svg" alt="Build Status"></a>
 </p>
@@ -43,9 +44,8 @@ i# DOTFILES AlonsoErnesto
 
 ## 3. Move all folders on Docfiles on you ~./config
 
-> Tip: this command itself will print to `stdout` which is not all that useful.
-To make use of the command later on you can save the stdout to a `$VARIABLE` or
-`file.txt`.
+> Tip: Maybe problem contact to `ernesto134alonso123@gmai.com` for 
+`Problem` in the installation.
 
 
 
