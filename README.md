@@ -1,10 +1,10 @@
 # DOTFILES AlonsoErnesto
   
-<p>
 
 ## Screenshots
 
-    <a href="https://https://files.fm/thumb_show.php?i=jp2weuf9x" target="_blank"><img src="https://https://files.fm/thumb_show.php?i=jp2weuf9x" alt=" Image" width="450" /></a>
+<p>
+    <a href="https://https://files.fm/thumb_show.php?i=jp2weuf9x" target="_blank"><img src="https://files.fm/thumb_show.php?i=jp2weuf9x" alt=" Image" width="450" /></a>
     <a href="https://files.fm/thumb_show.php?i=pamxp8gjh" target="_blank"><img src="https://files.fm/thumb_show.php?i=pamxp8gjh" alt=" Image" width="450" /></a>
     <br><br>
     <a href="https://github.com/AlonsoErnesto"><img src="https://img.shields.io/github/release/charmbracelet/gum.svg" alt="Latest Release"></a>
