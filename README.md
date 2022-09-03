@@ -1,8 +1,11 @@
-i# DOTFILES AlonsoErnesto
+# DOTFILES AlonsoErnesto
   
 <p>
-    <a href="https://https://files.fm/thumb_show.php?i=jp2weuf9x" target="_blank"><img src="https://stuff.charm.sh/gum/gum.png" alt="Gum Image" width="450" /></a>
-    <a href="https://files.fm/thumb_show.php?i=pamxp8gjh" target="_blank"><img src="https://stuff.charm.sh/gum/gum.png" alt="Gum Image" width="450" /></a>
+
+## Screenshots
+
+    <a href="https://https://files.fm/thumb_show.php?i=jp2weuf9x" target="_blank"><img src="https://https://files.fm/thumb_show.php?i=jp2weuf9x" alt=" Image" width="450" /></a>
+    <a href="https://files.fm/thumb_show.php?i=pamxp8gjh" target="_blank"><img src="https://files.fm/thumb_show.php?i=pamxp8gjh" alt=" Image" width="450" /></a>
     <br><br>
     <a href="https://github.com/AlonsoErnesto"><img src="https://img.shields.io/github/release/charmbracelet/gum.svg" alt="Latest Release"></a>
     <a href="https://pkg.go.dev/github.com/charmbracelet/gum?tab=doc"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="Go Docs"></a>
